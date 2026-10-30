@@ -1,0 +1,44 @@
+{
+  "id": "org.meuscanais.bestcine",
+  "version": "1.0.0",
+  "name": "Meus Canais",
+  "description": "Catálogos personalizados com canais selecionados do BestCine",
+  "resources": [
+    "catalog"
+  ],
+  "types": [
+    "tv"
+  ],
+  "catalogs": [
+    {
+      "type": "tv",
+      "id": "tv-aberta",
+      "name": "TV Aberta"
+    },
+    {
+      "type": "tv",
+      "id": "filmes",
+      "name": "Filmes"
+    },
+    {
+      "type": "tv",
+      "id": "desenhos",
+      "name": "Desenhos"
+    },
+    {
+      "type": "tv",
+      "id": "documentarios-variedades",
+      "name": "Documentários e Variedades"
+    },
+    {
+      "type": "tv",
+      "id": "noticias",
+      "name": "Notícias"
+    },
+    {
+      "type": "tv",
+      "id": "esportes",
+      "name": "Esportes"
+    }
+  ]
+}
